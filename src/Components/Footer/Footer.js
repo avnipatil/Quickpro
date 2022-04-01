@@ -2,7 +2,7 @@ import './Footer.css'
 const Footer =()=>{
     return(
         <>
-        <section className='my-3'>
+        <section className='my-3 py-5'style={{backgroundColor:'#80808008'}}>
             <div className='container'>
                 <div className='row'>
                     <div className='col-lg-3 col-md-3 col-sm-3'>
