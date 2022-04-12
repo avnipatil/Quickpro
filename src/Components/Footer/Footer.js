@@ -11,7 +11,7 @@ const Footer =()=>{
                     </div>
                     <div className='col-lg-3 col-md-3 col-sm-3'>
                       <h4>Quick Links</h4>
-                        <ul>
+                        <ul className="foot_ul">
                             <li>Admission</li>
                             <li>Student</li>
                             <li>Course</li>
