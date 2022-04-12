@@ -15,7 +15,7 @@ const Banner = ()=>{
                                <button className="howwork_btn py-2 px-5 mx-2"><i className="fa fa-caret-right" style={{fontSize:'25px'}} aria-hidden="true"></i> How We Work</button>
                             </div>
                     </div>
-                    <div className="col-lg-5 col-md-5 col-sm-12 form_box px-5 py-5 my-5">
+                    <div className="col-lg-5 col-md-5 col-sm-12 form_box px-5 py-5 my-5" style={{marginTop:'4%'}}>
                         <h3 className="text-white text-justify">Let's turned Your education with us </h3>
                         <p className="text-white text-justify">Enter Basic Details for admission enquiry</p>
                         <form>
