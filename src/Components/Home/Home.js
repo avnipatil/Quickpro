@@ -4,9 +4,11 @@ import student from '../../images/student.png'
 import male from '../../images/male.png'
 import internet from '../../images/internet.png'
 import WelcomTraining from '../WelcomTraining/WelcomTraining'
+import Banner from '../Banner/Banner'
 const Home =()=>{
     return(
         <>
+        <Banner/>
         <section>
             <div className="container my-5">
                 <h5 className="insti_head">Institutional Goals</h5>
