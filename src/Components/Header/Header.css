@@ -1,8 +1,20 @@
-.logotxt{
+.logotxt {
     color: #000;
     font-weight: bold;
 }
-.head_navtxt{font-size: 13px;}
-.headnav_img{padding-left: 35%;}
-.headnav_img2{padding-left: 55%;}
-.nav-link{color: #000;}
+
+.head_navtxt {
+    font-size: 13px;
+}
+
+.headnav_img {
+    padding-left: 35%;
+}
+
+.headnav_img2 {
+    padding-left: 55%;
+}
+
+.nav-link {
+    color: #000;
+}
