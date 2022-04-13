@@ -1,7 +1,18 @@
-.year29{
+.year29 {
     text-align: justify;
     color: rgb(61, 183, 232);
 }
-.wel_box{
-    background-color: #80808008;
+
+.wel_box {
+    background-color: #80808012;
+}
+
+.wel_perimg {
+    position: absolute;
+    left: -20%;
+    width: 240px;
+}
+
+.wel_perimg:hover {
+    opacity: 0.9;
 }
